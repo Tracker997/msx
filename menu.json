@@ -1,3 +1,11 @@
 {
-  "action": "link:https://app.strem.io"
+  "name": "Tracker997 MSX",
+  "menu": [
+    {
+      "name": "Stremio TV Mode",
+      "icon": "https://www.stremio.com/website/stremio-logo-white.png",
+      "type": "link",
+      "data": "https://app.strem.io/#/?streamingServer=http%3A%2F%2F127.0.0.1%3A11470"
+    }
+  ]
 }
