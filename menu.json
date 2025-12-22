@@ -1,0 +1,11 @@
+{
+    "name": "Stremio",
+    "menu": [
+        {
+            "name": "Stremio Web",
+            "icon": "https://www.stremio.com/website/stremio-logo-white.png",
+            "type": "link",
+            "data": "https://app.strem.io"
+        }
+    ]
+}
