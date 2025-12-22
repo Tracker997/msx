@@ -1,3 +1,12 @@
 {
-  "action": "link:https://tom-pro.tomstream.win"
+    "name": "Stremio TV",
+    "main": [
+        {
+            "title": "Stremio",
+            "data": "https://tom-pro.tomstream.win",
+            "properties": {
+                "backAction": "history:back"
+            }
+        }
+    ]
 }
