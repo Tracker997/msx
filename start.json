@@ -1,5 +1,5 @@
 {
     "name": "Stremio TV",
     "version": "1.0.0",
-    "parameter": "properties:backAction=history:back replace:menu:https://tracker997.github.io/msx/menu.json"
+    "parameter": "menu:https://tracker997.github.io/msx/menu.json"
 }
