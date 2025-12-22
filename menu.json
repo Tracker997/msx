@@ -1,6 +1,4 @@
 {
   "action": "https://tom-pro.tomstream.win"
-  "properties": {
-      "backAction": "history:back"
-      }
+  "properties": "history:back" 
 }
