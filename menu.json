@@ -1,12 +1,6 @@
 {
-    "name": "Stremio TV",
-    "main": [
-        {
-            "title": "Stremio",
-            "data": "https://tom-pro.tomstream.win",
-            "properties": {
-                "backAction": "history:back"
-            }
-        }
-    ]
+  "action": "https://tom-pro.tomstream.win"
+  "properties": {
+      "backAction": "history:back"
+      }
 }
